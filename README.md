@@ -1,6 +1,4 @@
-[![@Cirqueira's Holopin board](https://holopin.io/api/user/board?user=cirqueiralabs)](https://holopin.io/@cirqueiralabs)
-<p align="center">
-</p>
+<p></p>
 <h1 align="center">Hi 👋, I'm Cirqueira</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
